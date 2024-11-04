@@ -36,9 +36,10 @@ In this project the target metric is the "**ACCURACY**"
 
 ### Deployment
 
+The end goal is to render this information on an UI to the client so that he can easily evaluate Premium for different customers with health information. This will be mainly useful for end users such as Acturaries, Insurance Agents.
 
+1. Saved the model as a pickle file
+2. Deployed on a **Flask**  with **post method** by providing all the important features and predicted Premium Price
+3. Also deployed on **Streamlit** which gives an UI with all the required field and predict Premium Price
 
-
-
-Deployment
 
