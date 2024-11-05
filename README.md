@@ -43,4 +43,4 @@ The end goal is to render this information on an UI to the client so that he can
 3. Also deployed on **Streamlit** which gives an UI with all the required field and predict Premium Price
 
 
-![(https://github.com/Deepti1205/DSML_Portfolio_Project/blob/main/Insurance_StreamLit.PNG)]
+![image](https://github.com/Deepti1205/DSML_Portfolio_Project/blob/main/Insurance_StreamLit.PNG)
